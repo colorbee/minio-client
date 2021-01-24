@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  wiki.heh.minio.api.config.MinioConfiguration,\
+  wiki.heh.minio.api.MinioNotificationConfiguration,\
+  wiki.heh.minio.api.MinioMetricConfiguration,\
+  wiki.heh.minio.api.config.WatermarkConfiguration
